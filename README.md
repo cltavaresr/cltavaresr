@@ -1,10 +1,10 @@
 - ☠️ Hi, I’m @cltavaresr
-- 👾 I’m interested in `programação, RPG, animes, k-pop, livros, k-dramas, manhwas e outros`
-- 🎬 I’m currently learning programação T^T
-- 🎸 I’m looking to collaborate on qualquer coisa que me interesse
+- 👾 I’m interested in `programação, RPG, animes, k-pop, books, k-dramas, manhwas and others`
+- 🎬 I’m currently learning schedule T^T
+- 👻 I’m looking to collaborate on anything
 - 📼 How to reach me `📧00001110931323sp@al.educacao.sp.gov.br`
-- 💣 Pronouns: ela/dela
-- 🩸 Fun fact: já tentei criar um bot do discord usando phyton pelo celular
+- 💣 Pronouns: she/her
+- 🩸 Fun fact: I've tried creating a bot for discord using python 🤡
 
 <!---
 cltavaresr/cltavaresr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
